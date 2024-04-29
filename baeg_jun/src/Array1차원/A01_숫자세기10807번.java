@@ -2,7 +2,7 @@ package Array1차원;
 
 import java.util.Scanner;
 
-public class A03_숫자세기10807번 {
+public class A01_숫자세기10807번 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@ package Array1차원;
 
 import java.util.Scanner;
 
-public class A01_가장큰값작은값구하기10818번 {
+public class A03_가장큰값작은값구하기10818번 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
