@@ -9,7 +9,7 @@ public class A04_입력값의최댓값_몇번째인덱스인지출력2562번 {
 		
 		int A = sc.nextInt(); // 배열의 길이
 		
-		int
+		
 
 	}
 
